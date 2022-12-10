@@ -21,6 +21,6 @@ Example only, please delete these steps and enter your own.
 3. Notice Z
 
 ## Additional context 
-Is there anything specific else that we should know that could help us find/fix this bug?
+Is there anything specific else that i should know that could help me find/fix this bug?
 
 - [ ] I have included the steps to reproduce to the best I am able to share.
