@@ -1,5 +1,5 @@
 # Oanitic Issues
-Incase you notice a bug or other problems, leave them here
+Incase you notice a bug or other problems or have a suggestion, leave them here
 
 ## Some rules
 - Please make sure that your issues are clear and readable. Do not make an issue that goes like this: getting issues when using XYZ please fix
